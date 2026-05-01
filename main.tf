@@ -7,6 +7,6 @@ resource "aws_instance" "one" {
   ami           = "ami-0ed094fb1304fd857"
   instance_type = "t3.micro" 
   tags = {
-    Name = "dev-server-gab"
+    Name = "server-github"
   }
 }
