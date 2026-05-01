@@ -7,4 +7,4 @@ jobs:
       - name: printing message
         run:  echo "hello sahithi!!!"
       - name: print second message
-        run:  echo "bye "
+        run:  echo "bye sa"
